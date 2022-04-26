@@ -175,45 +175,6 @@ footer ul li {
 
 
 
-
-
-/* Extra small devices (portrait phones, less than 576px)*/
-
-
-@media (max-width: 280.98px) { 
-    .btn-custom {
-        margin: 10px 15px;
-       
-    }
-    .container-nav {
-        margin-left: 1em;
-        margin-right: 1em;
-    }
-
-
-
-}
-
-
-
-
-@media (min-width: 575.98px) and (max-width: 576.98px) { 
-    .btn-custom {
-        margin: 10px 15px;
-        
-    }
-    .container-nav {
-        margin-left: 1em;
-        margin-right: 1em;
-    }
-
-
-
-}
-
-
-
-
 @media (min-width: 280px) and (max-width: 360.98px) {
     h1 {
         font-size: 2em;
@@ -222,6 +183,24 @@ footer ul li {
     .btn-custom {
        margin: 10px 15px;
        font-size: 0.8em;
+   }
+
+   .container-nav {
+       margin-left: 1em;
+       margin-right: 1em;
+   }
+   
+   .logo-footer {
+       margin-bottom: 20px;
+   }
+
+   .titulo-footer {
+       margin-top: 10px;
+   }
+
+   .social-footer {
+       margin-top: 10px;
+       
    }
          
 
@@ -238,6 +217,26 @@ footer ul li {
        margin: 10px 15px;
        font-size: 1em;
    }
+
+   .container-nav {
+    margin-left: 1em;
+    margin-right: 1em;
+   }
+
+    .logo-footer {
+        margin-bottom: 20px;
+    }
+
+    .titulo-footer {
+        margin-top: 10px;
+    }
+
+    .social-footer {
+        margin-top: 10px;
+        
+}
+
+
          
 
        
@@ -254,6 +253,14 @@ footer ul li {
         margin: 10px 15px;
         font-size: 1em;
     }
+
+    .container-nav {
+        margin-left: 1em;
+        margin-right: 1em;
+    }
+
+
+   
           
 
         
@@ -267,6 +274,15 @@ footer ul li {
 
             .btn-custom {
                 margin: 10px 15px;
+            }
+
+            .logo-footer {
+                 padding-right: 50px;
+            }
+
+            .social-footer {
+                padding-right: 4em;
+                
             }
            
             
